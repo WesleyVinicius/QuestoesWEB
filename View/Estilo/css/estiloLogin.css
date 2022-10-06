@@ -1,0 +1,45 @@
+#header img{
+    margin-top: 10px;
+    margin-left: 7px;
+    width: 250px;
+    height: 45px;
+    
+}
+
+.widget-title2{
+    margin-left: -7px;
+}
+
+.filtros{
+    margin-left: 100px;
+}
+
+.widget-title2 h5 {
+    float: left;
+    width: 270px;
+    font-size: 13px;
+    font-weight:lighter;
+}
+
+.widget-title2 h6 {
+    float: left;
+    width: 370px;
+}
+
+#sidebar .submenu{
+    width: 171px;
+}
+
+#sidebar .active{
+    width: 171px;
+}
+
+.tabela{
+    margin-left: 100px;
+}
+
+.inicial{
+    width: 350px;
+    margin-left: 250px;
+    margin-top: 30px;
+}

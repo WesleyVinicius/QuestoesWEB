@@ -1,0 +1,19 @@
+.widget-title{
+    background: #5CACEE;
+    text-decoration: none;
+    font-family: helvetica;
+}
+
+#img .img{
+    width: 70px;
+    height: 20px;
+}
+
+.tabela{
+    margin-left: 100px;
+}
+
+.botao{
+    margin-left: 30px;
+    margin-top: 30px;
+}
